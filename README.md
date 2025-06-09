@@ -25,7 +25,7 @@ conda env create -f mac_environment.yml
 ## **Experimental Set up**
 #### VIRMEN Behavioral set up 
 - This pipeline is built to be used with behavioral data collected with the VIRMEN package in MATLAB. 
-- See VIRMEN Github for more information. 
+- See VIRMEN Github for more information. https://github.com/RunyanLab/VIRMEN_runyanlab 
 
 #### 2-photon imaging
 - This pipeline is built to be used with 2photon calcium imaging. It should be generalizable for varying framerates as well as window sizes.
